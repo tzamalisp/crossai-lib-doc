@@ -5,7 +5,7 @@ efficiency in 1D as well as 2D problems have been implemented and integrated int
 that are included in the library are distinguished into 2 main categories, a) the models that can handle 1D problems, 
 such as time-series, and, b) the models that accept as input 2D data, such as images, spectrograms, etc. 
 
-### Neural Network Architectures
+## Neural Network Architectures
 
 The NN topologies that are related to 1D, are the following:
 * XceptionTime [[1]](#1)[[2]](#2)
@@ -30,7 +30,7 @@ uncertainty without sacrificing either computational complexity or test accuracy
 Networks, which are a mathematically grounded framework to model uncertainty can be avoided to be utilized for 
 robustness as they come with a prohibitive computational cost.
 
-### References
+## References
 
 <a name="1">[1]</a> Tzamalis, Pantelis, Andreas Bardoutsos, Dimitris Markantonatos, Christoforos Raptopoulos, Sotiris 
 Nikoletseas, Xenophon Aggelides, and  Nikos Papadopoulos. "End-to-end Gesture Recognition Framework for the 
